@@ -10,6 +10,7 @@ gem 'sqlite3'
 group :development, :test do
   gem 'rspec'
   gem 'rspec-rails'
+  gem 'webrat'
 end
 
 # Use unicorn as the web server

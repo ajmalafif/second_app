@@ -4,4 +4,4 @@
 require File.expand_path('../config/application', __FILE__)
 require 'rake'
 
-VuApp::Application.load_tasks
+Secondapp::Application.load_tasks
